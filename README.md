@@ -23,9 +23,9 @@ secondly, i checked the relationship among different type of employment, borrowe
 it is suprising to see retired people also have a relatively high borrower APR even though some of them may have good rating.
 
 ## key Insights
-1.Full-Time and part-time tend to have higher ProsperScore and lower BorrowerAPR
-2.Not-Employed & Self-Employed tend to have lower ProsperScore and higher BorrowerAPR
-3.loans with larger amount are taken by people with higher credit rating.
-4.as the Prosper score goes up, the borrower APR goes down.
-5.it is suprising to see retired people also have a relatively high borrower APR even though some of them may have good rating.
+1. Full-Time and part-time tend to have higher ProsperScore and lower BorrowerAPR
+2. Not-Employed & Self-Employed tend to have lower ProsperScore and higher BorrowerAPR
+3. loans with larger amount are taken by people with higher credit rating.
+4. as the Prosper score goes up, the borrower APR goes down.
+5. it is suprising to see retired people also have a relatively high borrower APR even though some of them may have good rating.
 
